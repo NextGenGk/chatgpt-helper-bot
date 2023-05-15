@@ -4,7 +4,7 @@ This app is an interface to the GPT3 API. It isn't Chatgpt nor does it use the C
 I made it as a second option due to the amount of errors and issues Chatgpt was having.
 
 ## Live website link 
-https://chatgpt-helper.netlify.app/
+https://chatgpt-helperbot.netlify.app/
 
 ## Sample Image for ChatGPT Helper Bot
 ![image](https://user-images.githubusercontent.com/95544839/221374571-75b3852b-0f99-4ce4-bd20-838d2365e23f.png)
